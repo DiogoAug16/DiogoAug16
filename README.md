@@ -82,11 +82,7 @@
 
 ###
 
-<h2 align="center">
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" height="30" style="vertical-align: middle; margin-right: 8px;" />
-  My Contributions
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" height="30" style="vertical-align: middle; margin-left: 8px;" />
-</h2>
+<h2 align="center">🐍 My Contributions 🐍</h2>
 
 ###
 
