@@ -27,13 +27,13 @@
 ###
 
 <picture decoding="async" loading="lazy">
-  <source media="(prefers-color-scheme: light)" srcset="https://pixel-profile.vercel.app/api/github-stats?username=DiogoAug16&theme=crt">
-  <source media="(prefers-color-scheme: dark)" srcset="https://pixel-profile.vercel.app/api/github-stats?username=DiogoAug16&screen_effect=true&pixelate_avatar=true&theme=blue_chill">
+  <source media="(prefers-color-scheme: light)" srcset="https://pixel-profile.vercel.app/api/github-stats?username=DiogoAug16&theme=summer">
+  <source media="(prefers-color-scheme: dark)" srcset="https://pixel-profile.vercel.app/api/github-stats?username=DiogoAug16&screen_effect=true&pixelate_avatar=true&theme=crt">
   <img alt="github stats" src="https://pixel-profile.vercel.app/api/github-stats?username=DiogoAug16&theme=crt">
 </picture>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DiogoAug16&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+<!--   <img src="https://github-readme-stats.vercel.app/api?username=DiogoAug16&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  /> -->
   <img src="https://streak-stats.demolab.com?user=DiogoAug16&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&date_format=j/n%5B/Y%5D" height="150" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DiogoAug16&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
