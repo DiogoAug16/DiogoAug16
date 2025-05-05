@@ -26,6 +26,12 @@
 
 ###
 
+<picture decoding="async" loading="lazy">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LuciNyan/LuciNyan/output/github-stats.png">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LuciNyan/LuciNyan/output/github-stats-dark.png">
+  <img alt="github stats" src="https://pixel-profile.vercel.app/api/github-stats?username=LuciNyan&screen_effect=false&theme=fuji&hide=avatar&dithering=true">
+</picture>
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=DiogoAug16&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://streak-stats.demolab.com?user=DiogoAug16&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&date_format=j/n%5B/Y%5D" height="150" alt="streak graph"  />
