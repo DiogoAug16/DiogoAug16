@@ -8,7 +8,7 @@
 
 ###
 
-<h3 align="center">A passionate software developer from Brazil 🇧🇷</h3>
+<h3 align="center">A passionate developer from Brazil 🇧🇷</h3>
 
 ###
 
