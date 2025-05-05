@@ -83,9 +83,9 @@
 ###
 
 <h2 align="center">
-  <img src="https://media.giphy.com/media/3ohzdIuqJoo8QdKlnW/giphy.gif" height="30" style="vertical-align: middle; margin-right: 8px;" />
+  <img src="https://media.giphy.com/media/iF3M9gPPCd0hEWx3bA/giphy.gif" height="30" style="vertical-align: middle; margin-right: 8px;" />
   My Contributions
-  <img src="https://media.giphy.com/media/3ohzdIuqJoo8QdKlnW/giphy.gif" height="30" style="vertical-align: middle; margin-left: 8px;" />
+  <img src="https://media.giphy.com/media/iF3M9gPPCd0hEWx3bA/giphy.gif" height="30" style="vertical-align: middle; margin-left: 8px;" />
 </h2>
 
 ###
