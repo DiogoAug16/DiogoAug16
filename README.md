@@ -82,5 +82,4 @@
 </div>
 
 ###
-<img src="[https://capsule-render.vercel.app/api?type=waving&height=300&color=timeAuto&text=Welcome!&section=footer&reversal=false&animation=twinkling&textBg=false](https://capsule-render.vercel.app/api?type=waving&height=300&color=timeAuto&section=footer
-)" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=timeAuto&section=footer" />
