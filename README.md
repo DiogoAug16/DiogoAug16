@@ -26,17 +26,17 @@
 
 <h2 align="center">
   <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Lightning" height="30" />
-  Stats
+  Github Stats
   <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Lightning" height="30" />
 </h2>
 
 ###
 
-<picture decoding="async" loading="lazy">
+<!-- <picture decoding="async" loading="lazy">
   <source media="(prefers-color-scheme: light)" srcset="https://pixel-profile.vercel.app/api/github-stats?username=DiogoAug16&theme=summer">
   <source media="(prefers-color-scheme: dark)" srcset="https://pixel-profile-ui.vercel.app/api/github-stats?username=DiogoAug16&screen_effect=true&include_all_commits=true&pixelate_avatar=true&theme=fuji&theme=fuji&color=%23313638FF">
   <img alt="github stats" src="https://pixel-profile-ui.vercel.app/api/github-stats?username=DiogoAug16&screen_effect=true&include_all_commits=true&pixelate_avatar=true&theme=fuji&theme=fuji&color=%23313638FF">
-</picture>
+</picture> -->
 
 <div align="center">
 <!--   <img src="https://github-readme-stats.vercel.app/api?username=DiogoAug16&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  /> -->
