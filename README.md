@@ -63,7 +63,7 @@
 
 <div align="center">
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=js,html,py,java,c,cpp,css,django,spring,flutter,docker,dotnet&perline=3&theme=dark" height="140" alt="logos"  />
+  <img src="https://skillicons.dev/icons?i=js,html,py,java,c,cpp,css,django,spring,flutter,docker,dotnet&perline=6&theme=dark" height="140" alt="logos"  />
   <!-- <img width="12" />
   <img src="https://skillicons.dev/icons?i=html" height="30" alt="html5 logo"  />
   <img width="12" />
