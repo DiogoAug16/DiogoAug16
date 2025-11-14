@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=timeAuto&text=Welcome!&section=header&reversal=false&animation=twinkling&textBg=false" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=77b8ae&text=Welcome!&section=header&reversal=false&animation=twinkling&textBg=false" />
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
@@ -39,8 +39,6 @@
 </picture> -->
 
 <div align="center">
-<!--   <img src="https://github-readme-stats.vercel.app/api?username=DiogoAug16&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  /> -->
-  <!-- <img src="https://streak-stats.demolab.com?user=DiogoAug16&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&date_format=j/n%5B/Y%5D" height="150" alt="streak graph"  /> -->
   <img src = "https://github-readme-stats.vercel.app/api?username=DiogoAug16&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" height="150" alt="Stats graph">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiogoAug16&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" height="150" alt="languages graph"  />
 </div>
@@ -64,8 +62,9 @@
 <br clear="both">
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js" height="30" alt="javascript logo"  />
   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=js,html,py,java,c,cpp,css,django,spring,flutter,docker,dotnet&perline=3&theme=dark" height="120" alt="logos"  />
+  <!-- <img width="12" />
   <img src="https://skillicons.dev/icons?i=html" height="30" alt="html5 logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=py" height="30" alt="python logo"  />
@@ -74,11 +73,13 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=c" height="30" alt="c logo"  />
   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=cpp" height="30" alt="cpp logo"  />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=css" height="30" alt="css3 logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=django" height="30" alt="django logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=spring" height="30" alt="spring logo"  />
+  <img src="https://skillicons.dev/icons?i=spring" height="30" alt="spring logo"  /> -->
 </div>
 
 ###
@@ -98,4 +99,4 @@
 </div>
 
 ###
-<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=timeAuto&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=77b8ae&section=footer" />
