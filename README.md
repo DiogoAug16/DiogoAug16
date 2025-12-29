@@ -6,13 +6,9 @@
   </a>
 </h1>
 
-###
-
 <h3 align="center">
   A passionate developer from Brazil 🇧🇷
 </h3>
-
-###
 
 <div align="center">
   <a href="https://www.instagram.com/diggo.aug/" target="_blank"><img src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=E4405F" height="35" /></a>&nbsp;<a href="mailto:diogoaug16@gmail.com"><img src="https://img.shields.io/badge/Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=D14836" height="35" /></a>&nbsp;<a href="https://www.linkedin.com/in/diogo-augusto-4a70482b8/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=58A6FF" height="35" /></a>
@@ -74,13 +70,9 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=30&duration=1&pause=1000&center=true&width=425&lines=%F0%9F%90%8DMy+Contributions%F0%9F%90%8D" />
 </h2>
 
-###
-
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/DiogoAug16/DiogoAug16/output/snake.svg" alt="Snake animation" />
-
-###
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=DiogoAug16.DiogoAug16&left_color=0D1117&right_color=58A6FF" />
