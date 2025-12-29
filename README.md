@@ -41,13 +41,8 @@
 ###
 
 <h2 align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" 
-       height="24" 
-       style="vertical-align: middle; display: inline-block; margin-right: 8px;" />
-  Languages-Frameworks-Tools
-  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" 
-       height="24" 
-       style="vertical-align: middle; display: inline-block; margin-left: 8px;" />
+  <img src="https://readme-typing-svg.demolab.com?font=Righteous&size=30&duration=1&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Languages-Frameworks-Tools
+" />
 </h2>
 
 
