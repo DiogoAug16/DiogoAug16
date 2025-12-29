@@ -41,29 +41,9 @@
 </picture> -->
 
 <div align="center">
-  <img 
-    src="https://github-readme-stats-t3xv.vercel.app/api
-      ?username=DiogoAug16
-      &theme=tokyonight
-      &show_icons=true
-      &hide_border=true
-      &count_private=true
-      &bg_color=0D1117"
-    height="150"
-    alt="Stats graph"
-  />
+  <img src="https://github-readme-stats-t3xv.vercel.app/api?username=DiogoAug16&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&bg_color=0D1117" height="150" />
 
-  <img 
-    src="https://github-readme-stats-t3xv.vercel.app/api/top-langs/
-      ?username=DiogoAug16
-      &theme=tokyonight
-      &show_icons=true
-      &hide_border=true
-      &layout=compact
-      &bg_color=0D1117"
-    height="150"
-    alt="languages graph"
-  />
+  <img src="https://github-readme-stats-t3xv.vercel.app/api/top-langs/?username=DiogoAug16&theme=tokyonight&show_icons=true&hide_border=true&layout=compact&bg_color=0D1117" height="150" />
 </div>
 
 
