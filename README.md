@@ -20,9 +20,7 @@
 ###
 
 <h2 align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Lightning" height="30" />
-  Github Stats
-  <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Lightning" height="30" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&text=Github%20Stats&fontColor=58A6FF&fontSize=40"/>
 </h2>
 
 ###
