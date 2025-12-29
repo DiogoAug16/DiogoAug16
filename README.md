@@ -13,16 +13,9 @@
 ###
 
 <div align="center">
-  <a href="https://www.instagram.com/diggo.aug/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=E4405F" height="35" alt="instagram logo"  />
-  </a>
-  <a href="mailto:diogoaug16@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=D14836" height="35" alt="gmail logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/diogo-augusto-4a70482b8/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=58A6FF" height="35" alt="linkedin logo"  />
-  </a>
+  <a href="https://www.instagram.com/diggo.aug/" target="_blank"><img src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=E4405F" height="35" /></a>&nbsp;<a href="mailto:diogoaug16@gmail.com"><img src="https://img.shields.io/badge/Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=D14836" height="35" /></a>&nbsp;<a href="https://www.linkedin.com/in/diogo-augusto-4a70482b8/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=58A6FF" height="35" /></a>
 </div>
+
 
 ###
 
