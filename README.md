@@ -20,7 +20,7 @@
 ###
 
 <h2 align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&text=Github%20Stats&fontColor=58A6FF&fontSize=40"/>
+<img src="https://readme-typing-svg.demolab.com?font=Righteous&size=30&duration=1&pause=1000&color=58A6FF&center=true&vCenter=true&width=300&lines=Github+Stats" />
 </h2>
 
 ###
