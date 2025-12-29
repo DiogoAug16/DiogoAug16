@@ -77,7 +77,7 @@
 
 <h2 align="center">
   
-  <img src="https://readme-typing-svg.demolab.com?font=Righteous&size=30&duration=1&pause=1000&color=58A6FF&center=true&vCenter=true&width=425&lines= 🐍My Contributions🐍" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=30&duration=1&pause=1000&center=true&width=425&lines=%F0%9F%90%8DMy+Contributions%F0%9F%90%8D" />
 </h2>
 
 ###
