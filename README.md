@@ -19,13 +19,11 @@
 </div>
 
 
-###
+##
 
 <h2 align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Righteous&size=30&duration=1&pause=1000&color=58A6FF&center=true&vCenter=true&width=300&lines=Github+Stats" />
 </h2>
-
-###
 
 <!-- <picture decoding="async" loading="lazy">
   <source media="(prefers-color-scheme: light)" srcset="https://pixel-profile.vercel.app/api/github-stats?username=DiogoAug16&theme=summer">
@@ -40,15 +38,11 @@
 </div>
 
 
-###
+##
 
 <h2 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=30&duration=1&pause=1000&center=true&width=425&lines=Languages-Frameworks-Tools" />
 </h2>
-
-
-
-###
 
 <br clear="both">
 
@@ -73,7 +67,7 @@
   <img src="https://skillicons.dev/icons?i=spring" height="30" alt="spring logo"  /> -->
 </div>
 
-###
+##
 
 <h2 align="center">
   
