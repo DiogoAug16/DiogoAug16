@@ -41,8 +41,8 @@
 ###
 
 <h2 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Righteous&size=30&duration=1&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Languages-Frameworks-Tools
-" />
+  <img src="https://readme-typing-svg.demolab.com?font=Righteous&size=30&duration=1&pause=1000&color=58A6FF&center=true&vCenter=true&width=425&lines=Languages-Frameworks-Tools
+  " />
 </h2>
 
 
@@ -74,7 +74,11 @@
 
 ###
 
-<h2 align="center">🐍 My Contributions 🐍</h2>
+<h2 align="center">
+  
+  <img src="https://readme-typing-svg.demolab.com?font=Righteous&size=30&duration=1&pause=1000&color=58A6FF&center=true&vCenter=true&width=425&lines= 🐍My Contributions🐍
+  " />
+</h2>
 
 ###
 
