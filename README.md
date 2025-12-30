@@ -1,13 +1,22 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=77b8ae&text=Welcome!&section=header&reversal=false&animation=twinkling&textBg=false" />
+<!-- ![Seja Bem Vindo!](https://gradient-svg-generator.vercel.app/api/svg?text=Seja+Bem+Vindo%21&height=300&gradientType=typewriterEnhanced&duration=4s&color0=0D1117&color1=158CF7&color2=158CF7) -->
 
-<h1 align="center">
+<!-- ![Seja Bem Vindo!](https://gradient-svg-generator.vercel.app/api/svg?text=Seja+Bem+Vindo%21&height=300&template=rainbow-wave-cascade) -->
+
+<!-- ![Seja Bem Vindo!](https://gradient-svg-generator.vercel.app/api/svg?text=Seja+Bem+Vindo%21&height=300&gradientType=typewriter&duration=4s&color0=0D1117&color1=158CF7&color2=008000) -->
+
+![Seja Bem Vindo!](https://gradient-svg-generator.vercel.app/api/svg?text=Seja+Bem+Vindo%21&height=300&gradientType=textBox&duration=1s&color0=0D1117&color1=158CF7&color2=158CF7)
+
+<!-- 0D1117 -->
+<!-- 158CF7 -->
+
+<h1 align="center"> 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Righteous&weight=500&size=35&pause=1000&color=158CF7&center=true&vCenter=true&width=435&lines=Hi+there%F0%9F%91%8B!;I'm+Diogo+!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Righteous&weight=500&size=35&pause=1000&color=158CF7&center=true&vCenter=true&width=435&lines=Bom Dia +%F0%9F%91%8B!;Me+chamo+Diogo!" alt="Typing SVG" />
   </a>
 </h1>
 
 <h3 align="center">
-  A passionate developer from Brazil 🇧🇷
+  Um desenvolvedor apaixonado por programação do Brasil 🇧🇷
 </h3>
 
 <div align="center">
@@ -36,7 +45,7 @@
 
 ##
 
-<h2 align="center">
+<!-- <h2 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=30&duration=1&pause=1000&center=true&width=425&lines=Languages-Frameworks-Tools" />
 </h2>
 
@@ -45,23 +54,47 @@
 <div align="center">
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=js,html,py,java,c,cpp,css,django,spring,flutter,docker,dotnet&perline=6&theme=dark" height="140" alt="logos"  />
-  <!-- <img width="12" />
-  <img src="https://skillicons.dev/icons?i=html" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=java" height="30" alt="java logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=c" height="30" alt="c logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=cpp" height="30" alt="cpp logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=django" height="30" alt="django logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=spring" height="30" alt="spring logo"  /> -->
-</div>
+<!-- </div> -->
+
+<h2 align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=30&duration=1&pause=1000&center=true&width=425&lines=Tecnologias+que+j%C3%A1+utilizei" />
+</h2>
+
+<h3>Frameworks e Runtimes</h3>
+<p>
+  <img src="https://skillicons.dev/icons?i=django,spring,flutter,dotnet&perline=6&theme=dark" height="45" alt="logos"  />
+</p>
+
+<h3>Front-end</h3>
+<p>
+  <img src="https://skillicons.dev/icons?i=js,html,css&perline=6&theme=dark" height="45" alt="logos"  />
+</p>
+
+<h3>Linguagens de Programação</h3>
+<p>
+  <img src="https://skillicons.dev/icons?i=py,java,c,cpp&perline=6&theme=dark" height="45" alt="logos"  />
+</p>
+
+<h3>DevOps e Contêineres</h3>
+<p>
+  <img src="https://skillicons.dev/icons?i=docker&perline=6&theme=dark" height="45" alt="logos"  />
+</p>
+
+<h3>IDE's e Editores de Código</h3>
+<p>
+  <img src="https://skillicons.dev/icons?i=vscode,idea,eclipse&perline=6&theme=dark" height="45" alt="logos"  />
+</p>
+
+<h3>Bancos de Dados</h3>
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql&perline=6&theme=dark" height="45" alt="logos" />
+</p>
+
+<h3>Ferramentas de Desenvolvimento</h3>
+<p>
+  <img src="https://skillicons.dev/icons?i=postman&perline=6&theme=dark" height="45" alt="logos" />
+</p>
+
 
 ##
 
@@ -79,4 +112,7 @@
 </div>
 
 ###
-<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=77b8ae&section=footer" />
+
+![Adeus 👋!](https://gradient-svg-generator.vercel.app/api/svg?text=Até+mais+👋&height=300&gradientType=textBox&duration=1s&color0=0D1117&color1=158CF7&color2=158CF7)
+
+<!-- <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=77b8ae&section=footer" /> -->
