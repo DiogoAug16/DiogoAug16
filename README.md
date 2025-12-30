@@ -60,41 +60,44 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=30&duration=1&pause=1000&center=true&width=425&lines=Tecnologias+que+j%C3%A1+utilizei" />
 </h2>
 
+<div align="center">
+
 <h3>Frameworks e Runtimes</h3>
 <p>
-  <img src="https://skillicons.dev/icons?i=django,spring,flutter,dotnet&perline=6&theme=dark" height="45" alt="logos"  />
+  <img src="https://skillicons.dev/icons?i=django,spring,flutter,dotnet&perline=6&theme=dark" height="45" />
 </p>
 
 <h3>Front-end</h3>
 <p>
-  <img src="https://skillicons.dev/icons?i=js,html,css&perline=6&theme=dark" height="45" alt="logos"  />
+  <img src="https://skillicons.dev/icons?i=js,html,css&perline=6&theme=dark" height="45" />
 </p>
 
 <h3>Linguagens de Programação</h3>
 <p>
-  <img src="https://skillicons.dev/icons?i=py,java,c,cpp&perline=6&theme=dark" height="45" alt="logos"  />
+  <img src="https://skillicons.dev/icons?i=py,java,c,cpp&perline=6&theme=dark" height="45" />
 </p>
 
 <h3>DevOps e Contêineres</h3>
 <p>
-  <img src="https://skillicons.dev/icons?i=docker&perline=6&theme=dark" height="45" alt="logos"  />
+  <img src="https://skillicons.dev/icons?i=docker&perline=6&theme=dark" height="45" />
 </p>
 
 <h3>IDE's e Editores de Código</h3>
 <p>
-  <img src="https://skillicons.dev/icons?i=vscode,idea,eclipse&perline=6&theme=dark" height="45" alt="logos"  />
+  <img src="https://skillicons.dev/icons?i=vscode,idea,eclipse&perline=6&theme=dark" height="45" />
 </p>
 
 <h3>Bancos de Dados</h3>
 <p>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql&perline=6&theme=dark" height="45" alt="logos" />
+  <img src="https://skillicons.dev/icons?i=postgres,mysql&perline=6&theme=dark" height="45" />
 </p>
 
 <h3>Ferramentas de Desenvolvimento</h3>
 <p>
-  <img src="https://skillicons.dev/icons?i=postman&perline=6&theme=dark" height="45" alt="logos" />
+  <img src="https://skillicons.dev/icons?i=postman&perline=6&theme=dark" height="45" />
 </p>
 
+</div>
 
 ##
 
