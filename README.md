@@ -74,7 +74,7 @@
 
 <h3>Linguagens de Programação</h3>
 <p>
-  <img src="https://skillicons.dev/icons?i=py,java,c,cpp&perline=6&theme=dark" height="45" />
+  <img src="https://skillicons.dev/icons?i=py,java,c,cs&perline=6&theme=dark" height="45" />
 </p>
 
 <h3>DevOps e Contêineres</h3>
