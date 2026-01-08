@@ -64,37 +64,37 @@
 
 <h3>Frameworks e Runtimes</h3>
 <p>
-  <img src="https://skillicons.dev/icons?i=django,spring,flutter,dotnet&perline=6&theme=dark" height="45" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=django,spring,flutter,dotnet&perline=6&theme=dark" height="45" />
 </p>
 
 <h3>Front-end</h3>
 <p>
-  <img src="https://skillicons.dev/icons?i=js,html,css&perline=6&theme=dark" height="45" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=js,html,css&perline=6&theme=dark" height="45" />
 </p>
 
 <h3>Linguagens de Programação</h3>
 <p>
-  <img src="https://skillicons.dev/icons?i=py,java,c,cs&perline=6&theme=dark" height="45" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=py,java,c,cs&perline=6&theme=dark" height="45" />
 </p>
 
 <h3>DevOps e Contêineres</h3>
 <p>
-  <img src="https://skillicons.dev/icons?i=docker&perline=6&theme=dark" height="45" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=docker&perline=6&theme=dark" height="45" />
 </p>
 
 <h3>IDE's e Editores de Código</h3>
 <p>
-  <img src="https://skillicons.dev/icons?i=vscode,idea,eclipse&perline=6&theme=dark" height="45" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=vscode,idea,eclipse&perline=6&theme=dark" height="45" />
 </p>
 
 <h3>Bancos de Dados</h3>
 <p>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql&perline=6&theme=dark" height="45" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=postgres,mysql&perline=6&theme=dark" height="45" />
 </p>
 
 <h3>Ferramentas de Desenvolvimento</h3>
 <p>
-  <img src="https://skillicons.dev/icons?i=postman&perline=6&theme=dark" height="45" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=git,postman,jupyter&perline=6&theme=dark" height="45" />
 </p>
 
 </div>
