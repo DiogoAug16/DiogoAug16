@@ -1,0 +1,40 @@
+<svg width="100%" height="300" viewBox="0 0 1200 300" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <!-- Import Righteous font -->
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=Righteous&amp;display=swap');
+    </style>
+
+    <!-- Border glow -->
+    <filter id="border-glow">
+      <feGaussianBlur stdDeviation="5" result="blur"></feGaussianBlur>
+      <feMerge>
+        <feMergeNode in="blur"></feMergeNode>
+        <feMergeNode in="SourceGraphic"></feMergeNode>
+      </feMerge>
+    </filter>
+
+    <!-- Text glow (softer) -->
+    <filter id="text-glow">
+      <feGaussianBlur stdDeviation="2.5" result="textBlur"></feGaussianBlur>
+      <feMerge>
+        <feMergeNode in="textBlur"></feMergeNode>
+        <feMergeNode in="SourceGraphic"></feMergeNode>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <!-- Background -->
+  <rect width="1200" height="300" fill="#0D1117"></rect>
+
+  <!-- Animated glowing box -->
+  <rect x="100" y="60" width="1000" height="180" rx="16" ry="16" fill="#0D1117" stroke="#158CF7" stroke-width="4" filter="url(#border-glow)">
+    <animate attributeName="stroke-opacity" values="0.5;1;0.5" dur="3s" repeatCount="indefinite"></animate>
+  </rect>
+
+  <!-- Text with subtle glow -->
+  <text x="600" y="155" text-anchor="middle" dominant-baseline="middle" fill="#158CF7" font-size="64" font-family="'Righteous', cursive" letter-spacing="2" filter="url(#text-glow)">
+    <animate attributeName="opacity" values="0.7;1;0.7" dur="3s" repeatCount="indefinite"></animate>
+    Até mais 👋
+  </text>
+</svg>

@@ -2,15 +2,15 @@
 
 <!-- ![Seja Bem Vindo!](https://gradient-svg-generator.vercel.app/api/svg?text=Seja+Bem+Vindo%21&height=300&template=rainbow-wave-cascade) -->
 
-<!-- ![Seja Bem Vindo!](https://gradient-svg-generator.vercel.app/api/svg?text=Seja+Bem+Vindo%21&height=300&gradientType=typewriter&duration=4s&color0=0D1117&color1=158CF7&color2=008000) -->
-
 <!-- ![Seja Bem Vindo!](https://gradient-svg-generator.vercel.app/api/svg?text=Seja+Bem+Vindo%21&height=300&gradientType=textBox&duration=1s&color0=0D1117&color1=158CF7&color2=158CF7) -->
 
 <!-- ![Seja Bem Vindo!](https://gradient-svg-generator.vercel.app/api/svg?text=Seja+Bem+Vindo%21&height=300&gradientType=cyberSymbiosis&duration=7s&color0=158CF7&color1=0D1117&color2=0D1117&color3=0D1117) -->
 
 <!-- ![Seja Bem Vindo!](https://gradient-svg-generator.vercel.app/api/svg?text=Seja+Bem+Vindo%21&height=199&gradientType=largeRounded&duration=3s&color0=0D1117&color1=0D1117&color2=0D1117) -->
 
-![Seja Bem Vindo!](https://gradient-svg-generator.vercel.app/api/svg?text=Seja+Bem+Vindo%21&height=199&gradientType=typewriterEnhanced&duration=4s&color0=0D1117&color1=158CF7&color2=158CF7&color3=158CF7)
+<!-- ![Seja Bem Vindo!](https://gradient-svg-generator.vercel.app/api/svg?text=Seja+Bem+Vindo%21&height=199&gradientType=typewriterEnhanced&duration=4s&color0=0D1117&color1=158CF7&color2=158CF7&color3=158CF7) -->
+
+![Seja Bem Vindo](./.github/assets/welcome.svg)
 
 <!-- 0D1117 -->
 <!-- 158CF7 -->
@@ -124,8 +124,11 @@
 
 <!-- <!-- ![Adeus 👋!](https://gradient-svg-generator.vercel.app/api/svg?text=Até+mais+👋&height=300&gradientType=textBox&duration=1s&color0=0D1117&color1=158CF7&color2=158CF7) -->
 
-![Até mais 👋](https://gradient-svg-generator.vercel.app/api/svg?text=At%C3%A9+mais+%F0%9F%91%8B&height=300&gradientType=typewriterEnhanced&duration=4s&color0=0D1117&color1=158CF7&color2=158CF7&color3=158CF7)
+<!-- ![Até mais 👋](https://gradient-svg-generator.vercel.app/api/svg?text=At%C3%A9+mais+%F0%9F%91%8B&height=300&gradientType=typewriterEnhanced&duration=4s&color0=0D1117&color1=158CF7&color2=158CF7&color3=158CF7) -->
+
+![Até mais](./.github/assets/goodbye.svg)
 
 <!-- ![Até mais 👋](https://gradient-svg-generator.vercel.app/api/svg?text=At%C3%A9+mais+%F0%9F%91%8B&height=300&gradientType=cyberSymbiosis&duration=7s&color0=158CF7&color1=0D1117&color2=0D1117&color3=0D1117) -->
 
 <!-- <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=77b8ae&section=footer" /> -->
+
