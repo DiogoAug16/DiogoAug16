@@ -4,7 +4,7 @@
 
 <!-- ![Seja Bem Vindo!](https://gradient-svg-generator.vercel.app/api/svg?text=Seja+Bem+Vindo%21&height=300&gradientType=typewriter&duration=4s&color0=0D1117&color1=158CF7&color2=008000) -->
 
-![Seja Bem Vindo!](https://gradient-svg-generator.vercel.app/api/svg?text=Seja+Bem+Vindo%21&height=300&gradientType=textBox&duration=1s&color0=0D1117&color1=158CF7&color2=158CF7)
+<!-- ![Seja Bem Vindo!](https://gradient-svg-generator.vercel.app/api/svg?text=Seja+Bem+Vindo%21&height=300&gradientType=textBox&duration=1s&color0=0D1117&color1=158CF7&color2=158CF7) -->
 
 ![Seja Bem Vindo!](https://gradient-svg-generator.vercel.app/api/svg?text=Seja+Bem+Vindo%21&height=300&gradientType=cyberSymbiosis&duration=7s&color0=158CF7&color1=0D1117&color2=0D1117&color3=0D1117)
 
